@@ -1,3 +1,11 @@
+#Lab4
+- wczytywanie domów z pliku json
+- logowanie z wyświetlaniem aktywnego użytkownika
+- przechowywanie użytkownika w localStorage
+- no idea - useMemo w App.js
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
