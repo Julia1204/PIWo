@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "imgSource": "assets/house 1.jpg",
+    "bedsCount": "4",
+    "address": "123 Main St",
+    "description": "This beautiful house features a spacious interior with modern design elements. Enjoy the stunning views of the nearby park and relax in the tranquil ambiance.",
+    "price": "65000"
+  },
+  {
+    "id": 2,
+    "imgSource": "assets/house 2.jpg",
+    "bedsCount": "3",
+    "address": "456 Elm Ave",
+    "description": "Step into luxury with this exquisite home. Impeccable craftsmanship and attention to detail make this property a true gem. Experience elegance and comfort like never before.",
+    "price": "890000"
+  },
+  {
+    "id": 3,
+    "imgSource": "assets/house 3.jpg",
+    "bedsCount": "4",
+    "address": "789 Oak Rd",
+    "description": "Indulge in the ultimate living experience. This magnificent house offers breathtaking panoramic views, expansive living spaces, and top-of-the-line amenities. Truly a dream come true.",
+    "price": "770000"
+  },
+  {
+    "id": 4,
+    "imgSource": "assets/house 4.jpg",
+    "bedsCount": "3",
+    "address": "101 Paradise Ln",
+    "description": "Escape to paradise with this stunning modern home. Surrounded by lush greenery and boasting a sleek design, this property combines luxury, serenity, and privacy in one perfect package.",
+    "price": "75000"
+  }
+]
