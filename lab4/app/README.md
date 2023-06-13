@@ -1,10 +1,3 @@
-#Lab4
-- wczytywanie domów z pliku json
-- logowanie z wyświetlaniem aktywnego użytkownika
-- przechowywanie użytkownika w localStorage
-- no idea - useMemo w App.js
-
-
 
 # Getting Started with Create React App
 
